@@ -10,7 +10,7 @@
 *
 *   Tag		Author				Date		Incident No.	Requested-BY		Description     
 * *****************************************************************************************************************
-*   1.0.0	Tushar Kudchikar		08/10/2017	N/A				SVS Sprint 1		                       
+*   1.0.0	Tushar Kudchikar		08/10/2017	N/A						                       
 *
 */
 public class ObjectIDHelper {
