@@ -12,7 +12,7 @@
 *
 *   Tag		Author				Date		Incident No.	Requested-BY		Description     
 * *****************************************************************************************************************
-*   1.0.0	Tushar Kudchikar		08/30/2017	N/A				SVS Sprint 2		
+*   1.0.0	Tushar Kudchikar		08/30/2017	N/A					
 */
 public class PicklistHelper {
 	
