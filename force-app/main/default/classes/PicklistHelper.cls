@@ -1,6 +1,6 @@
 /**
 * @author Tushar Kudchikar
-* @date  12 AUg 20
+* @date  12 Aug 20
 *
 * @group NEU
 * @group-content ../../ApexDocContent/PicklistHelper.htm
